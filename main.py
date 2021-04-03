@@ -1,7 +1,7 @@
 import random
 
 #welcome messages
-print("Welcome to nptl's Guessing Game")
+print("Welcome to nptl's Guessing Game!")
 name = input("Let the game know your name..\n")
 print("\nHey..", name, "nice name :)")
 print(
